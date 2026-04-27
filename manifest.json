@@ -14,7 +14,7 @@
   ],
 
   "background" : {
-    "service_worker" : "service_worker.js"
+    "service_worker" : "background.js"
   },
 
   "action" : {
